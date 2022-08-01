@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Striker/Desktop/Android/LGMVIP-Android-Development-Internship-main/Task1_Covid19TrackerApp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1375" />
+        <entry key="..\:/Users/Striker/Desktop/Android/LGMVIP-Android-Development-Internship-main/Task1_Covid19TrackerApp/app/src/main/res/drawable/bg_loading.xml" value="0.1375" />
+        <entry key="..\:/Users/Striker/Desktop/Android/LGMVIP-Android-Development-Internship-main/Task1_Covid19TrackerApp/app/src/main/res/drawable/edit_text_bg.xml" value="0.1375" />
+        <entry key="..\:/Users/Striker/Desktop/Android/LGMVIP-Android-Development-Internship-main/Task1_Covid19TrackerApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1375" />
+        <entry key="..\:/Users/Striker/Desktop/Android/LGMVIP-Android-Development-Internship-main/Task1_Covid19TrackerApp/app/src/main/res/drawable/search_icon.xml" value="0.1375" />
+        <entry key="..\:/Users/Striker/Desktop/Android/LGMVIP-Android-Development-Internship-main/Task1_Covid19TrackerApp/app/src/main/res/layout-v21/activity_introduction.xml" value="0.1" />
+        <entry key="..\:/Users/Striker/Desktop/Android/LGMVIP-Android-Development-Internship-main/Task1_Covid19TrackerApp/app/src/main/res/layout/activity_district_wise_data.xml" value="0.21" />
+        <entry key="..\:/Users/Striker/Desktop/Android/LGMVIP-Android-Development-Internship-main/Task1_Covid19TrackerApp/app/src/main/res/layout/activity_each_district_data.xml" value="0.25" />
+        <entry key="..\:/Users/Striker/Desktop/Android/LGMVIP-Android-Development-Internship-main/Task1_Covid19TrackerApp/app/src/main/res/layout/activity_each_state_data.xml" value="0.25" />
+        <entry key="..\:/Users/Striker/Desktop/Android/LGMVIP-Android-Development-Internship-main/Task1_Covid19TrackerApp/app/src/main/res/layout/activity_introduction.xml" value="0.25" />
+        <entry key="..\:/Users/Striker/Desktop/Android/LGMVIP-Android-Development-Internship-main/Task1_Covid19TrackerApp/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Striker/Desktop/Android/LGMVIP-Android-Development-Internship-main/Task1_Covid19TrackerApp/app/src/main/res/layout/activity_state_wise_data.xml" value="0.25" />
+        <entry key="..\:/Users/Striker/Desktop/Android/LGMVIP-Android-Development-Internship-main/Task1_Covid19TrackerApp/app/src/main/res/layout/layout_state_wise.xml" value="0.25" />
+        <entry key="..\:/Users/Striker/Desktop/Android/LGMVIP-Android-Development-Internship-main/Task1_Covid19TrackerApp/app/src/main/res/layout/progress_dialog.xml" value="0.25" />
+        <entry key="..\:/Users/Striker/Desktop/Android/LGMVIP-Android-Development-Internship-main/Task1_Covid19TrackerApp/app/src/main/res/menu/menu.xml" value="0.215625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

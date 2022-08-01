@@ -1,0 +1,16 @@
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+        jcenter() // Warning: this repository is going to shut down soon
+    }
+}
+rootProject.name = "LGMVIP_AugmentedFaces"
+include ':app'
+
+include ':sceneform'
+project(':sceneform').projectDir=new File('sceneformsrc/sceneform')
+
+include ':sceneformux'
+project(':sceneformux').projectDir=new File('sceneformux/ux')
